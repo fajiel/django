@@ -8,7 +8,7 @@ from django.shortcuts import render, render_to_response
 from django.http import HttpResponseRedirect
 from django import forms
 # from database.models import User, AmazonUser, InternalMail, ExternalMail, OtherMail
-
+#由于权限问题，这里将不同账户配置为不同页面
 MAIL_CFG = {
     1:"filter_mail.html",
     2:"filter_mail.html"
