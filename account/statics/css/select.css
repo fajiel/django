@@ -1,0 +1,20 @@
+.main {
+    margin: 0 auto;
+    margin-top: 50px;
+    /*width: 400px;*/
+}
+
+.main li {
+    margin-top: 20px;
+}
+
+form {
+    background-color: #eee;
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+body>div.container {
+    margin-top: 50px;
+}
